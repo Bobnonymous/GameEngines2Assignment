@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 118c1ce2c17660d42a3239a59d03b82f
+timeCreated: 1454283465
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ARAK-AFT-L
+    100004: ARAK-BACK-
+    100006: ARAK-BODY-
+    100008: ARAK-BODY1
+    100010: ARAK-FOR-L
+    100012: ARAK-FOR_S
+    100014: ARAK-ROSTR
+    100016: ARAK-SMALL
+    100018: BACK-LEGLE
+    100020: BOTTOM-JAW
+    100022: BUTT-ARM
+    100024: BUTT-ARMLE
+    100026: FRONTLEGLE
+    100028: Inside-BEA
+    100030: Inside-LOW
+    100032: LEG-MOUNT
+    100034: ROSTRAL-FR
+    100036: ROSTRAL-SH
+    100038: SIDE-BEAK
+    100040: SIDE-LOW-J
+    100042: TOP-BEAK
+    400000: //RootNode
+    400002: ARAK-AFT-L
+    400004: ARAK-BACK-
+    400006: ARAK-BODY-
+    400008: ARAK-BODY1
+    400010: ARAK-FOR-L
+    400012: ARAK-FOR_S
+    400014: ARAK-ROSTR
+    400016: ARAK-SMALL
+    400018: BACK-LEGLE
+    400020: BOTTOM-JAW
+    400022: BUTT-ARM
+    400024: BUTT-ARMLE
+    400026: FRONTLEGLE
+    400028: Inside-BEA
+    400030: Inside-LOW
+    400032: LEG-MOUNT
+    400034: ROSTRAL-FR
+    400036: ROSTRAL-SH
+    400038: SIDE-BEAK
+    400040: SIDE-LOW-J
+    400042: TOP-BEAK
+    2300000: ARAK-AFT-L
+    2300002: ARAK-BACK-
+    2300004: ARAK-BODY-
+    2300006: ARAK-BODY1
+    2300008: ARAK-FOR-L
+    2300010: ARAK-FOR_S
+    2300012: ARAK-ROSTR
+    2300014: ARAK-SMALL
+    2300016: BACK-LEGLE
+    2300018: BOTTOM-JAW
+    2300020: BUTT-ARM
+    2300022: BUTT-ARMLE
+    2300024: FRONTLEGLE
+    2300026: Inside-BEA
+    2300028: Inside-LOW
+    2300030: LEG-MOUNT
+    2300032: ROSTRAL-FR
+    2300034: ROSTRAL-SH
+    2300036: SIDE-BEAK
+    2300038: SIDE-LOW-J
+    2300040: TOP-BEAK
+    3300000: ARAK-AFT-L
+    3300002: ARAK-BACK-
+    3300004: ARAK-BODY-
+    3300006: ARAK-BODY1
+    3300008: ARAK-FOR-L
+    3300010: ARAK-FOR_S
+    3300012: ARAK-ROSTR
+    3300014: ARAK-SMALL
+    3300016: BACK-LEGLE
+    3300018: BOTTOM-JAW
+    3300020: BUTT-ARM
+    3300022: BUTT-ARMLE
+    3300024: FRONTLEGLE
+    3300026: Inside-BEA
+    3300028: Inside-LOW
+    3300030: LEG-MOUNT
+    3300032: ROSTRAL-FR
+    3300034: ROSTRAL-SH
+    3300036: SIDE-BEAK
+    3300038: SIDE-LOW-J
+    3300040: TOP-BEAK
+    4300000: ARAK-AFT-L
+    4300002: ARAK-BACK-
+    4300004: ARAK-BODY-
+    4300006: ARAK-BODY1
+    4300008: ARAK-FOR-L
+    4300010: ARAK-FOR_S
+    4300012: ARAK-ROSTR
+    4300014: ARAK-SMALL
+    4300016: BACK-LEGLE
+    4300018: BOTTOM-JAW
+    4300020: BUTT-ARM
+    4300022: BUTT-ARMLE
+    4300024: FRONTLEGLE
+    4300026: Inside-BEA
+    4300028: Inside-LOW
+    4300030: LEG-MOUNT
+    4300032: ROSTRAL-FR
+    4300034: ROSTRAL-SH
+    4300036: SIDE-BEAK
+    4300038: SIDE-LOW-J
+    4300040: TOP-BEAK
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
