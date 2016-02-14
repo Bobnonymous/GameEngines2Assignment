@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 118c1ce2c17660d42a3239a59d03b82f
-timeCreated: 1454283465
+guid: afb854c5e905485498e1ee9704098ea1
+timeCreated: 1455406000
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -113,7 +113,7 @@ ModelImporter:
     4300038: SIDE-LOW-J
     4300040: TOP-BEAK
   materials:
-    importMaterials: 1
+    importMaterials: 0
     materialName: 0
     materialSearch: 1
   animations:
