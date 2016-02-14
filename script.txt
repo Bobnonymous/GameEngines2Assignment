@@ -1,0 +1,14 @@
+Opening - Panning camera follows group of ships flying forwards.
+Inside ships hangar, groups of troopers flock into assigned dropships.
+Exterior shot of dropships detaching from carrier.
+Groups of dropships depart from carriers amd fly down towards planet.
+Bug plasma is launched from the planet surface, plasma is aimed at a ship when fired but travels in a straight line.
+Carriers implement an avoid behaviour to steer arround plasma.
+Any ship that collides with a plasma ball is destroyed.
+Scripted collision between two ships. Third ship must steer arround the collision.
+Dropships fly down towards the planet, avoid plasma much more nimbly.
+Carrier accidentally steers into  plasma ball with fisrt person view, explodes.
+Dropships arrive on planet surface.
+Troopers pour out of dropships and spread out.
+Troopers start to fight bugs.
+End.
